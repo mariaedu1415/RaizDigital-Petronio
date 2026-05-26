@@ -30,7 +30,4 @@ O Raiz Digital funciona como uma vitrine digital de produtos da agricultura fami
 
 ### Banco de dados
 - PostgreSQL
-
-        ↓
-Banco de Dados
-PostgreSQL
+  
